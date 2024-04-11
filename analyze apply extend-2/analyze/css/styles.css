@@ -1,5 +1,15 @@
-#css1, /* name: erik stpehns file:  syles*/
-#css2,
+#css1 /* name: erik stpehns file:  syles*/
+{
+	width:30%;
+	float: left;
+	padding: 1%;
+}
+
+#css2 {
+	width:30%;
+	float: left;
+	padding: 1%;
+}
 #css3 {
 	width:30%;
 	float: left;

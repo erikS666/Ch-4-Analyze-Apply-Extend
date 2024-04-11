@@ -1,13 +1,9 @@
-#reset, {
-    /* name:erik stpehns file:styles*/
-
-}
-
+#css1, /* name: erik stpehns file:  syles*/
 #css2,
 #css3 {
-	width: 40%;
+	width:30%;
 	float: left;
-	padding: 0 1%;
+	padding: 1%;
 }
 
 footer {
@@ -29,6 +25,7 @@ main {
 }
 
 header h1 {
+    text-align: center;
 	font-size: 3em;
 	font-family: Georgia, Times, serif;
 	padding: 3%;

@@ -45,10 +45,12 @@ header h1 {
 
 nav {
 	background-color: #47476b;
+	text-decoration: none;
 }
 
 nav ul {
 	margin: 0;
+	text-decoration: none;
 }
 
 nav li {
@@ -56,19 +58,23 @@ nav li {
 	font-size: 1.5em;
 	font-family: Verdana, Arial, sans-serif;
 	font-weight: bold;
+	text-decoration: none;
 }
 
 nav li a {
 	display: block;
 	color: #e3eaf8;
 	padding: 0.5em 2em;
+	text-decoration: none;
 }
 
 main p {
 	font-size: 1.25em;
+	text-decoration: none;
 }
 
 main h3 {
 	padding-top: 2%;
 	font-size: 2em;
+	text-decoration: none;
 }

@@ -1,0 +1,12 @@
+body {
+    color: #e3eafe;
+}
+
+img {
+    max-width:100%;
+    display:block;
+}
+
+header {
+    text-align: center;
+}

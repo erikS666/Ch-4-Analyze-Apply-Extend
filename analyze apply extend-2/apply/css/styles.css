@@ -1,50 +1,46 @@
-
-
-*/ syle rule for body and image*/
-
-body {
-    color: #e3eafe;
+*/ syle rule for body and image*/ body {
+	color: #e3eafe;
 }
 
 img {
-    max-width:100%;
-    display:block;
+	max-width: 100%;
+	display: block;
 }
+
 /* syle ule for header*/
 h1 {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 3%;
-    color: #101a2d;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding: 3%;
+	color: #101a2d;
 }
 
 /* sfyle rule for navigation*/
 
 nav {
-    color: #1d396d;
+	color: #1d396d;
 }
 
-nav ul{
-    list-style: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
+nav ul {
+	list-style: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bold;
 }
 
 nal {
-    display: block;
-    color: #e3eaf8;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    padding-left: 2em;
-    text-decoration: none;
-    }
+	display: block;
+	color: #e3eaf8;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	padding-left: 2em;
+	text-decoration: none;
+}
 
-    /*style rules for footer content*/
+/*style rules for footer content*/
 
-    footer{
-        font-size: 0.85em;
-        color: #1d396d;
-        
+footer {
+	font-size: 0.85em;
+	background-color: #1d396d;
+	color: #e3eaf8
+}
 
-
-    }

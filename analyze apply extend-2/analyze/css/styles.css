@@ -33,6 +33,8 @@ body {
 main {
 	padding: 2%;
 	font-family: Geneva, Arial, sans-serif;
+	color: #47476b;
+	text-decoration: none;
 }
 
 header h1 {

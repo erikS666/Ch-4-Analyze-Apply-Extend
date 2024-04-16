@@ -1,14 +1,16 @@
-*/ syle rule for body and image*/ body {
-	color: #e3eafe;
+*/ syle rule for body and image*/ 
+
+.body {
+	background-color: #e3eaf8;
 }
 
-img {
+.img {
 	max-width: 100%;
 	display: block;
 }
 
 /* syle ule for header*/
-h1 {
+.h1 {
 	text-align: center;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	padding: 3%;
@@ -18,7 +20,10 @@ h1 {
 /* sfyle rule for navigation*/
 
 nav {
-	color: #1d396d;
+	background-color: #1d396d;
+	margin: 0%;
+	text-align: center;
+
 }
 
 nav ul {

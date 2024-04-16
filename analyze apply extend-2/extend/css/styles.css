@@ -72,21 +72,32 @@ main a {
 
 }
 
-
 /* Purple */
 purple-hex {
 
-    color: #530087;
+	color: #530087;
 }
 
 purple-rgb {
 
-    background-color: 83, 0, 135;
+	background-color: 83, 0, 135;
 
 }
 
 purple-hsl {
-    background-color: 277°, 100%, 26%;
+	background-color: 277°, 100%, 26%;
 }
 
 /* Green */
+
+green-hex {
+	color: #00ad37;
+}
+
+green-rgb {
+	background-color: 0, 173, 55;
+}
+
+green-hsl {
+	background-color: 139°, 100%, 34%;
+}

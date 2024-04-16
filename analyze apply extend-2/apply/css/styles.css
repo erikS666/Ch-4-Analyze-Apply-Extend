@@ -1,10 +1,10 @@
 */ syle rule for body and image*/ 
 
-.body {
+body {
 	background-color: #e3eaf8;
 }
 
-.img {
+img {
 	max-width: 100%;
 	display: block;
 }
@@ -24,15 +24,17 @@ nav {
 	margin: 0%;
 	text-align: center;
 
+
 }
 
 nav ul {
+	display: inline;
 	list-style: none;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-weight: bold;
 }
 
-nal {
+li {
 	display: block;
 	color: #e3eaf8;
 	padding-top: 0.5em;
@@ -41,6 +43,45 @@ nal {
 	text-decoration: none;
 }
 
+/* sylke rules for meain content */
+
+main {
+	padding: 2%;
+	font-family: Arial, sans-serif
+}
+
+main p {
+	padding: 2%;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h3 {
+	padding: 2%;
+	font-size: 2em;
+
+}
+
+.image {
+	width: 45%;
+	float: lift;
+
+
+}
+
+.group {
+	width: 45%;
+	float: right;
+}
+
+.external {
+	color: #1d396d;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+
 /*style rules for footer content*/
 
 footer {
@@ -48,4 +89,3 @@ footer {
 	background-color: #1d396d;
 	color: #e3eaf8
 }
-
